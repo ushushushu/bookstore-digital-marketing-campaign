@@ -5,15 +5,15 @@ Currently ongoing as of October 24, 2025
 ### 📜 Table of Contents
 ---
 - [Important Notes](#%EF%B8%8F-important-notes)
+- [Project Updates](#-project-updates)
 - [Introduction](#-introduction)
 - [The Problem](#%EF%B8%8F-the-problem)
 - [Project Brief](#%EF%B8%8F-project-brief)
 - [Important Notes](#%EF%B8%8F-important-notes)
 - [Objective](#-objective)
-- [Project Updates](#-project-updates)
 - [Technologies & Skills Used](#-technologies--skills-used) (coming soon 🔜)
-- [Slide Deck](#-slide-deck)
-- [Dashboard](#-dashboard)
+- [Slide Deck](#-slide-deck) (coming soon 🔜)
+- [Dashboard](#-dashboard) (coming soon 🔜)
 - [Summary of Insights](#-summary-of-insights) (coming soon 🔜)
 - [Recommendations](#-recommendations) (coming soon 🔜)
 - [Future Improvements](#-future-improvements) (coming soon 🔜)
@@ -22,6 +22,9 @@ Currently ongoing as of October 24, 2025
 ### ⚠️ Important Notes
 ---
 This repo is missing 1 file, the website_sessions.csv file, due to excessive file size. The link to this file can be found *** (coming soon 🔜).
+
+### 🔔 Project Updates
+Kindly view this [Notion link](https://www.notion.so/The-Book-Hoarder-A-Digital-Marketing-Campaign-Project-281de9a20f448079865dc6885b55ff90?source=copy_link) for project updates / project management details.
 
 ### 📌 Introduction
 ---
@@ -50,9 +53,6 @@ Develop SQL-based analytics to deliver detailed insights to:
 - Customer engagement
 - Conversion funnel analytics
 - Marketing trends
-
-### 🔔 Project Updates
-Kindly view this [Notion link](https://www.notion.so/The-Book-Hoarder-A-Digital-Marketing-Campaign-Project-281de9a20f448079865dc6885b55ff90?source=copy_link) for project updates / project management details.
 
 ### 💻 Technologies & Skills Used
 ---
