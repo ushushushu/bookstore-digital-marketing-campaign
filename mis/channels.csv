@@ -1,0 +1,16 @@
+channel_key,channel_id,channel_name,channel_category,channel_type,platform
+1,CH00000001,Google Search,Search,Paid,Google Ads
+2,CH00000002,Facebook Ads,Social,Paid,Facebook
+3,CH00000003,Instagram Ads  ,Social,Paid,Instagram
+4,CH00000004,Email Newsletter,Email,  Owned,Internal
+5,CH00000005,Display Network,  Display,Paid,Google Display
+6,CH00000006,Organic Search,Search,Organic,Google
+7,CH00000007,Direct Traffic,Direct,Direct,None
+8,CH00000008,Twitter Ads,Social,Paid,Twitter
+9,CH00000009,LinkedIn Ads,Social,Paid,LinkedIn
+10,CH00000010,YouTube Ads,Social,Paid,YouTube
+11,CH00000011,Affiliate Network,Referral,Paid,Various
+12,CH00000012,Influencer Posts,Social,Paid,Various
+13,CH00000013,Retargeting,Display,Paid,adroll
+14,CH00000014,Organic Social,Social,Organic,Various
+15,CH00000015,Referral,Referral,Organic,Various
