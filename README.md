@@ -1,4 +1,4 @@
-# The Book Hoarder: A Digital Marketing Campaign Project
+# The Book Hoarder: A Digital Marketing Performance Analysis
 
 Currently ongoing as of October 28, 2025.
 
