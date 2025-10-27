@@ -24,7 +24,7 @@ Currently ongoing as of October 28, 2025.
 
 ### ⚠️ Important Notes
 ---
-This repository is missing 1 file, the website_sessions.csv file, due to large file size. The link to this file can be found [here](https://drive.google.com/drive/u/0/folders/1eZWbUA2TSrAXj6IBYrXrmV9uxEULsVCq).
+This repository is missing 1 file, the website_sessions.csv file, due to large file size. The link to this file can be found [here](https://drive.google.com/file/d/1QGCKrOvCGH34Zdd0OXRmBq1SYujt2FbD/view?usp=sharing).
 
 ### 🔔 Project Updates
 ---
