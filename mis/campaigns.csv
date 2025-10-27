@@ -1,0 +1,101 @@
+campaign_key,campaign_id,campaign_name,campaign_type,campaign_objective,campaign_manager,campaign_start_date,campaign_end_date,campaign_status,target_audience,budget_allocated,campaign_description,promotional_offer,promo_code,creative_version
+1,CAMP00000001,Search Domination: New Year,Search,Retention,Sarah Mitchell,2022-12-22,2023-02-18,Completed,All Customers,32542.2,Marketing campaign focused on new year,,,B
+2,CAMP00000002,Banner Blitz: Back to School,Display,Retention,Sarah Mitchell,2022-09-30,2022-12-11,Completed,High-Value,27951.59,Marketing campaign focused on back to school,,,C
+3,CAMP00000003,Affiliate Attribution: Holiday Extravaganza,Affiliate,Awareness,Sarah Mitchell,2021-12-10,2022-02-19,Completed,New Customers,25028.49,Marketing campaign focused on holiday extravaganza,15% OFF,PARTNER15,C
+4,CAMP00000004,Visual Reads: Spring Collection,Display,Conversion,Sarah Mitchell,2022-05-10,2022-07-13,Completed,New Customers,22228.78,Marketing campaign focused on spring collection,,,B
+5,CAMP00000005,Bookstagram Buzz: Beach Reads,Social,Consideration,Sarah Mitchell,2022-07-02,2022-09-10,Completed,Repeat Customers,8942.6,Marketing campaign focused on beach reads,,,B
+6,CAMP00000006,Partner Network: Spring Collection,Affiliate,Conversion,Sarah Mitchell,2022-05-11,2022-05-23,Completed,All Customers,38617.73,Marketing campaign focused on spring collection,Free Shipping,PARTNERSHIP,A
+7,CAMP00000007,Visual Reads: Black Friday,Display,Consideration,Sarah Mitchell,2021-11-19,2021-12-30,Completed,High-Value,6764.98,Marketing campaign focused on black friday,15% OFF,BFRIDAY15,A
+8,CAMP00000008,Inbox Impact: Gift Guide,Email,Consideration,Sarah Mitchell,2022-12-01,2023-01-22,Completed,Repeat Customers,28555.56,Marketing campaign focused on gift guide,,,A
+9,CAMP00000009,Inbox Impact: Halloween Special,Email,Awareness,Sarah Mitchell,2021-10-07,2021-10-26,Completed,Repeat Customers,27025.07,Marketing campaign focused on halloween special,,,A
+10,CAMP00000010,BookTok: Autumn Favorites,Social,Awareness,Sarah Mitchell,2022-09-05,2022-11-26,Completed,High-Value,9831.97,Marketing campaign focused on autumn favorites,,,C
+11,CAMP00000011,Affiliate Attribution: New Year,Affiliate,Conversion,Sarah Mitchell,2021-01-03,2021-03-28,Completed,High-Value,31834.43,Marketing campaign focused on new year,15% OFF,PARTNER15,C
+12,CAMP00000012,Creator Collab: Winter Reading,Influencer,Consideration,Sarah Mitchell,2022-01-08,2022-03-16,Completed,New Customers,12028.06,Marketing campaign focused on winter reading,Free Shipping,BOOKFLUENCERSHIP,C
+13,CAMP00000013,Affiliate Attribution: Holiday Extravaganza,Affiliate,Retention,Sarah Mitchell,2021-02-06,2021-04-11,Completed,High-Value,23498.76,Marketing campaign focused on holiday extravaganza,15% OFF,PARTNER15,B
+14,CAMP00000014,Bookstagram Buzz: Pre-Holiday Sale,Social,Conversion,Sarah Mitchell,2021-11-19,2022-01-23,Completed,All Customers,19543.13,Marketing campaign focused on pre-holiday sale,Free Shipping,SAVESHIP,C
+15,CAMP00000015,Instagram Stories: Spring Sale,Social,Retention,Sarah Mitchell,2021-04-13,2021-05-01,Completed,New Customers,11831.72,Marketing campaign focused on spring sale,,,A
+16,CAMP00000016,Affiliate Attribution: Winter Reading,Affiliate,Retention,Sarah Mitchell,2021-02-26,2021-05-17,Completed,New Customers,33006.98,Marketing campaign focused on winter reading,Free Shipping,PARTNERSHIP,B
+17,CAMP00000017,Display Showcase: Beach Reads,Display,Retention,Sarah Mitchell,2022-07-14,2022-08-31,Completed,All Customers,48307.5,Marketing campaign focused on beach reads,,,A
+18,CAMP00000018,Search Domination: Summer Reading,Search,Conversion,Sarah Mitchell,2021-07-01,2021-08-08,Completed,Repeat Customers,40068.36,Marketing campaign focused on summer reading,,,B
+19,CAMP00000019,Banner Blitz: Holiday Extravaganza,Display,Consideration,Sarah Mitchell,2021-02-20,2021-04-08,Completed,High-Value,28070.02,Marketing campaign focused on holiday extravaganza,Free Shipping,HOLIDAYSHIP,C
+20,CAMP00000020,Banner Blitz: Summer Reading,Display,Awareness,Sarah Mitchell,2022-08-09,2022-08-26,Completed,High-Value,28661.73,Marketing campaign focused on summer reading,,,B
+21,CAMP00000021,Influencer Funnel: Winter Reading,Influencer,Retention,Sarah Mitchell,2021-01-20,2021-02-06,Completed,Repeat Customers,35551.3,Marketing campaign focused on winter reading,15% OFF,BOOKFLUENCER15,C
+22,CAMP00000022,Creator Collab: Black Friday,Influencer,Retention,Sarah Mitchell,2021-11-22,2022-02-17,Completed,Repeat Customers,16580.16,Marketing campaign focused on black friday,Free Shipping,BOOKFLUENCERSHIP,C
+23,CAMP00000023,Partner Network: Gift Guide,Affiliate,Consideration,Sarah Mitchell,2021-12-16,2022-01-05,Completed,Repeat Customers,19192.72,Marketing campaign focused on gift guide,Free Shipping,PARTNERSHIP,A
+24,CAMP00000024,Inbox Impact: Gift Guide,Email,Conversion,Sarah Mitchell,2021-02-13,2021-04-10,Completed,New Customers,45280.39,Marketing campaign focused on gift guide,15% OFF,GIFT15,B
+25,CAMP00000025,Influencer Funnel: Summer Sale,Influencer,Awareness,Sarah Mitchell,2021-06-02,2021-08-25,Completed,Repeat Customers,12937.23,Marketing campaign focused on summer sale,Free Shipping,BOOKFLUENCERSHIP,A
+26,CAMP00000026,Banner Blitz: Summer Reading,Display,Consideration,Sarah Mitchell,2021-06-04,2021-09-02,Completed,New Customers,42752.52,Marketing campaign focused on summer reading,,,B
+27,CAMP00000027,Creator Collab: Beach Reads,Influencer,Consideration,Sarah Mitchell,2022-08-10,2022-11-05,Completed,High-Value,33261.34,Marketing campaign focused on beach reads,Free Shipping,BOOKFLUENCERSHIP,C
+28,CAMP00000028,Influencer Funnel: Halloween Special,Influencer,Conversion,Sarah Mitchell,2021-10-20,2021-12-28,Completed,New Customers,45229.72,Marketing campaign focused on halloween special,15% OFF,BOOKFLUENCER15,B
+29,CAMP00000029,Partner Network: Easter Reading,Affiliate,Retention,Sarah Mitchell,2021-05-04,2021-06-07,Completed,High-Value,37295.54,Marketing campaign focused on easter reading,15% OFF,PARTNER15,B
+30,CAMP00000030,Partner Network: Autumn Favorites,Affiliate,Awareness,Sarah Mitchell,2022-10-08,2022-11-28,Completed,New Customers,41146.67,Marketing campaign focused on autumn favorites,Free Shipping,PARTNERSHIP,A
+31,CAMP00000031,Bookstagram Buzz: Spring Sale,Social,Consideration,Sarah Mitchell,2021-05-01,2021-07-05,Completed,New Customers,22253.1,Marketing campaign focused on spring sale,,,A
+32,CAMP00000032,Display Showcase: Gift Guide,Display,Conversion,Sarah Mitchell,2022-12-29,2023-02-06,Completed,All Customers,1612758.76,Marketing campaign focused on gift guide,,,C
+33,CAMP00000033,Banner Blitz: Spring Sale,Display,Awareness,Sarah Mitchell,2022-03-18,2022-05-08,Completed,All Customers,19291.19,Marketing campaign focused on spring sale,,,C
+34,CAMP00000034,Bookworm Bulletin: Summer Sale,Email,Consideration,Alex Johnson,2024-06-20,2024-08-20,Completed,New Customers,16906.2,Marketing campaign focused on summer sale,,,C
+35,CAMP00000035,Page Turner Newsletter: New Year,Email,Retention,Alex Johnson,2023-01-09,2023-02-21,Completed,New Customers,13196.66,Marketing campaign focused on new year,10% OFF,NEWYEAR10,C
+36,CAMP00000036,Partner Network: Easter Reading,Affiliate,Awareness,Alex Johnson,2024-05-25,2024-06-19,Completed,All Customers,23748.48,Marketing campaign focused on easter reading,15% OFF,PARTNER15,A
+37,CAMP00000037,Affiliate Attribution: Beach Reads,Affiliate,Consideration,Alex Johnson,2024-06-24,2024-09-02,Completed,Repeat Customers,38256.01,Marketing campaign focused on beach reads,20% OFF,PARTNER20,B
+38,CAMP00000038,Inbox Impact: Back to School,Email,Conversion,Alex Johnson,2024-10-05,2024-12-19,Completed,All Customers,41581.19,Marketing campaign focused on back to school,Free Shipping,SCHOOLSHIP,A
+39,CAMP00000039,Search Domination: Spring Sale,Search,Conversion,Alex Johnson,2024-05-30,2024-08-17,Completed,High-Value,42874.11,Marketing campaign focused on spring sale,10% OFF,SAVE10,A
+40,CAMP00000040,Inbox Impact: New Year,Email,Conversion,Alex Johnson,2023-02-03,2023-04-15,Completed,New Customers,16650.3,Marketing campaign focused on new year,10% OFF,NEWYEAR10,C
+41,CAMP00000041,Inbox Impact: Halloween Special,Email,Conversion,Alex Johnson,2023-09-30,2023-11-26,Completed,High-Value,19125.48,Marketing campaign focused on halloween special,15% OFF,SAVE15,B
+42,CAMP00000042,Inbox Impact: Autumn Favorites,Email,Awareness,Alex Johnson,2024-09-22,2024-11-28,Completed,New Customers,1373410.16,Marketing campaign focused on autumn favorites,,,C
+43,CAMP00000043,Banner Blitz: Winter Reading,Display,Retention,Alex Johnson,2024-02-09,2024-05-09,Completed,Repeat Customers,46147.39,Marketing campaign focused on winter reading,,,B
+44,CAMP00000044,Creator Collab: Gift Guide,Influencer,Consideration,Alex Johnson,2023-01-11,2023-03-13,Completed,All Customers,46052.64,Marketing campaign focused on gift guide,20% OFF,BOOKFLUENCER20,A
+45,CAMP00000045,Inbox Impact: Spring Collection,Email,Conversion,Alex Johnson,2023-03-06,2023-04-20,Completed,All Customers,7674.37,Marketing campaign focused on spring collection,Free Shipping,SPRINGSHIP,B
+46,CAMP00000046,Influencer Funnel: Halloween Special,Influencer,Awareness,Alex Johnson,2024-09-02,2024-10-03,Completed,High-Value,21888.59,Marketing campaign focused on halloween special,Free Shipping,BOOKFLUENCERSHIP,B
+47,CAMP00000047,Page Turner Newsletter: Winter Reading,Email,Consideration,Alex Johnson,2024-02-20,2024-04-10,Completed,High-Value,42102.31,Marketing campaign focused on winter reading,,,A
+48,CAMP00000048,Affiliate Attribution: Spring Collection,Affiliate,Consideration,Alex Johnson,2024-05-28,2024-07-27,Completed,Repeat Customers,15274.98,Marketing campaign focused on spring collection,20% OFF,PARTNER20,B
+49,CAMP00000049,Display Showcase: Spring Collection,Display,Conversion,Alex Johnson,2023-04-25,2023-07-08,Completed,High-Value,48991.11,Marketing campaign focused on spring collection,,,A
+50,CAMP00000050,Page Turner Newsletter: Halloween Special,Email,Awareness,Alex Johnson,2023-10-03,2023-11-03,Completed,Repeat Customers,15828.72,Marketing campaign focused on halloween special,,,B
+51,CAMP00000051,Inbox Impact: Spring Collection,Email,Awareness,Alex Johnson,2024-05-17,2024-08-05,Completed,High-Value,20709.75,Marketing campaign focused on spring collection,,,A
+52,CAMP00000052,High-Intent Keywords: Summer Sale,Search,Awareness,Alex Johnson,2024-06-15,2024-08-08,Completed,All Customers,49995.48,Marketing campaign focused on summer sale,,,C
+53,CAMP00000053,Partner Network: Holiday Extravaganza,Affiliate,Retention,Alex Johnson,2023-12-09,2024-03-05,Completed,High-Value,17069.91,Marketing campaign focused on holiday extravaganza,Free Shipping,PARTNERSHIP,C
+54,CAMP00000054,Banner Blitz: Black Friday,Display,Awareness,Alex Johnson,2023-11-14,2024-01-24,Completed,High-Value,20250.32,Marketing campaign focused on black friday,,,C
+55,CAMP00000055,Banner Blitz: Autumn Favorites,Display,Retention,Alex Johnson,2024-10-23,2024-11-25,Completed,Repeat Customers,8192.31,Marketing campaign focused on autumn favorites,,,A
+56,CAMP00000056,Bookstagram Buzz: Easter Reading,Social,Awareness,Alex Johnson,2024-04-29,2024-05-25,Completed,All Customers,32884.8,Marketing campaign focused on easter reading,,,C
+57,CAMP00000057,Instagram Stories: New Year,Social,Conversion,Alex Johnson,2023-12-18,2024-02-04,Completed,Repeat Customers,28532.14,Marketing campaign focused on new year,,,A
+58,CAMP00000058,Inbox Impact: Summer Reading,Email,Consideration,Alex Johnson,2024-06-09,2024-06-24,Completed,Repeat Customers,11939.48,Marketing campaign focused on summer reading,,,B
+59,CAMP00000059,High-Intent Keywords: Summer Reading,Search,Consideration,Alex Johnson,2024-08-10,2024-08-24,Completed,High-Value,9606.94,Marketing campaign focused on summer reading,,,B
+60,CAMP00000060,Bookstagram Buzz: Back to School,Social,Awareness,Alex Johnson,2024-09-23,2024-12-18,Completed,New Customers,44188.99,Marketing campaign focused on back to school,,,B
+61,CAMP00000061,Inbox Impact: Back to School,Email,Consideration,Alex Johnson,2024-09-07,2024-10-16,Completed,All Customers,24733.19,Marketing campaign focused on back to school,,,A
+62,CAMP00000062,Creator Collab: Halloween Special,Influencer,Retention,Alex Johnson,2023-10-30,2024-01-10,Completed,New Customers,18663.68,Marketing campaign focused on halloween special,15% OFF,BOOKFLUENCER15,A
+63,CAMP00000063,BookTok: Spring Collection,Social,Awareness,Alex Johnson,2023-03-15,2023-06-01,Completed,High-Value,13841.34,Marketing campaign focused on spring collection,,,B
+64,CAMP00000064,Page Turner Newsletter: Beach Reads,Email,Awareness,Alex Johnson,2023-08-24,2023-09-03,Completed,Repeat Customers,41479.7,Marketing campaign focused on beach reads,,,B
+65,CAMP00000065,Visual Reads: Halloween Special,Display,Consideration,Alex Johnson,2023-10-06,2023-10-19,Completed,New Customers,13791.83,Marketing campaign focused on halloween special,,,B
+66,CAMP00000066,Display Showcase: Summer Reading,Display,Consideration,Alex Johnson,2023-08-22,2023-08-29,Completed,High-Value,21659.17,Marketing campaign focused on summer reading,,,C
+67,CAMP00000067,Search Domination: Autumn Favorites,Search,Retention,Alex Johnson,2023-10-17,2023-11-29,Completed,High-Value,9721.61,Marketing campaign focused on autumn favorites,,,A
+68,CAMP00000068,High-Intent Keywords: Beach Reads,Search,Conversion,Alex Johnson,2023-07-03,2023-07-14,Completed,Repeat Customers,49384.85,Marketing campaign focused on beach reads,,,A
+69,CAMP00000069,Affiliate Attribution: Summer Sale,Affiliate,Retention,Alex Johnson,2024-07-27,2024-09-14,Completed,Repeat Customers,35987.52,Marketing campaign focused on summer sale,Free Shipping,PARTNERSHIP,B
+70,CAMP00000070,Bookstagram Buzz: Halloween Special,Social,Consideration,Alex Johnson,2024-09-02,2024-10-26,Completed,Repeat Customers,39281.1,Marketing campaign focused on halloween special,,,A
+71,CAMP00000071,BookTok: Summer Reading,Social,Awareness,Alex Johnson,2023-06-30,2023-07-08,Completed,All Customers,5251.96,Marketing campaign focused on summer reading,,,C
+72,CAMP00000072,Inbox Impact: Winter Reading,Email,Conversion,Alex Johnson,2024-02-07,2024-03-02,Completed,All Customers,30084.34,Marketing campaign focused on winter reading,10% OFF,SAVE10,C
+73,CAMP00000073,Bookstagram Buzz: Pre-Holiday Sale,Social,Consideration,Alex Johnson,2023-11-10,2023-11-20,Completed,Repeat Customers,34585.11,Marketing campaign focused on pre-holiday sale,Free Shipping,SAVESHIP,A
+74,CAMP00000074,Inbox Impact: Gift Guide,Email,Conversion,Alex Johnson,2023-12-21,2024-03-06,Completed,New Customers,40142.94,Marketing campaign focused on gift guide,10% OFF,GIFT10,A
+75,CAMP00000075,Search Domination: Back to School,Search,Consideration,Alex Johnson,2024-10-17,2024-11-04,Completed,All Customers,17188.75,Marketing campaign focused on back to school,,,B
+76,CAMP00000076,Search Domination: Black Friday,Search,Retention,Alex Johnson,2024-11-07,2024-11-17,Completed,Repeat Customers,25080.09,Marketing campaign focused on black friday,Free Shipping,BFRIDAYSHIP,B
+77,CAMP00000077,Influencer Funnel: Halloween Special,Influencer,Awareness,Alex Johnson,2024-09-11,2024-10-19,Completed,All Customers,26831.35,Marketing campaign focused on halloween special,20% OFF,BOOKFLUENCER20,A
+78,CAMP00000078,Search Domination: Easter Reading,Search,Consideration,Alex Johnson,2024-03-12,2024-05-24,Completed,Repeat Customers,13088.83,Marketing campaign focused on easter reading,,,A
+79,CAMP00000079,Partner Network: Black Friday,Affiliate,Retention,Alex Johnson,2024-11-20,2025-01-21,Active,All Customers,32096.23,Marketing campaign focused on black friday,20% OFF,PARTNER20,A
+80,CAMP00000080,High-Intent Keywords: Beach Reads,Search,Retention,Alex Johnson,2024-06-16,2024-06-26,Completed,High-Value,16905.81,Marketing campaign focused on beach reads,,,B
+81,CAMP00000081,High-Intent Keywords: Spring Collection,Search,Awareness,Alex Johnson,2024-03-26,2024-04-30,Completed,Repeat Customers,17685.05,Marketing campaign focused on spring collection,,,A
+82,CAMP00000082,Partner Network: Autumn Favorites,Affiliate,Awareness,Alex Johnson,2023-10-13,2023-11-02,Completed,All Customers,35758.16,Marketing campaign focused on autumn favorites,20% OFF,PARTNER20,B
+83,CAMP00000083,Visual Reads: Winter Reading,Display,Retention,Alex Johnson,2024-02-03,2024-03-05,Completed,New Customers,28131.25,Marketing campaign focused on winter reading,,,B
+84,CAMP00000084,Display Showcase: Back to School,Display,Conversion,Alex Johnson,2023-09-05,2023-11-02,Completed,Repeat Customers,22315.16,Marketing campaign focused on back to school,,,B
+85,CAMP00000085,Search Domination: Holiday Extravaganza,Search,Retention,Alex Johnson,2024-01-27,2024-03-09,Completed,New Customers,6244.18,Marketing campaign focused on holiday extravaganza,15% OFF,HOLIDAY15,B
+86,CAMP00000086,Affiliate Attribution: Autumn Favorites,Affiliate,Consideration,Alex Johnson,2024-09-02,2024-09-24,Completed,All Customers,38280.52,Marketing campaign focused on autumn favorites,15% OFF,PARTNER15,B
+87,CAMP00000087,Influencer Funnel: Easter Reading,Influencer,Retention,Alex Johnson,2023-03-19,2023-05-09,Completed,Repeat Customers,38544.62,Marketing campaign focused on easter reading,Free Shipping,BOOKFLUENCERSHIP,B
+88,CAMP00000088,Instagram Stories: Summer Reading,Social,Awareness,Alex Johnson,2024-06-08,2024-07-18,Completed,New Customers,962.45,Marketing campaign focused on summer reading,,,B
+89,CAMP00000089,Affiliate Attribution: Back to School,Affiliate,Consideration,Alex Johnson,2024-09-16,2024-11-10,Completed,High-Value,27487.71,Marketing campaign focused on back to school,Free Shipping,PARTNERSHIP,A
+90,CAMP00000090,High-Intent Keywords: Gift Guide,Search,Retention,Alex Johnson,2024-02-15,2024-03-28,Completed,High-Value,45710.07,Marketing campaign focused on gift guide,,,B
+91,CAMP00000091,Creator Collab: Halloween Special,Influencer,Conversion,Alex Johnson,2024-10-15,2025-01-04,Completed,High-Value,37693.24,Marketing campaign focused on halloween special,15% OFF,BOOKFLUENCER15,A
+92,CAMP00000092,Influencer Funnel: Beach Reads,Influencer,Awareness,Alex Johnson,2023-06-18,2023-07-23,Completed,High-Value,549.45,Marketing campaign focused on beach reads,Free Shipping,BOOKFLUENCERSHIP,C
+93,CAMP00000093,Page Turner Newsletter: Easter Reading,Email,Conversion,Alex Johnson,2023-05-17,2023-08-08,Completed,New Customers,19847.19,Marketing campaign focused on easter reading,10% OFF,SAVE10,C
+94,CAMP00000094,Instagram Stories: Summer Sale,Social,Consideration,Alex Johnson,2023-07-16,2023-09-09,Completed,Repeat Customers,12707.71,Marketing campaign focused on summer sale,,,B
+95,CAMP00000095,Bookstagram Buzz: Autumn Favorites,Social,Retention,Alex Johnson,2023-10-10,2023-11-29,Completed,New Customers,7076.02,Marketing campaign focused on autumn favorites,,,C
+96,CAMP00000096,Search Domination: Autumn Favorites,Search,Retention,Alex Johnson,2024-10-23,2024-12-09,Completed,Repeat Customers,33241.56,Marketing campaign focused on autumn favorites,,,B
+97,CAMP00000097,Search Domination: Holiday Extravaganza,Search,Retention,Alex Johnson,2024-02-09,2024-04-03,Completed,High-Value,21834.99,Marketing campaign focused on holiday extravaganza,Free Shipping,HOLIDAYSHIP,A
+98,CAMP00000098,Instagram Stories: Easter Reading,Social,Conversion,Alex Johnson,2024-03-18,2024-06-09,Completed,Repeat Customers,25377.95,Marketing campaign focused on easter reading,,,C
+99,CAMP00000099,Search Domination: Spring Sale,Search,Awareness,Alex Johnson,2024-04-15,2024-05-23,Completed,New Customers,27924.91,Marketing campaign focused on spring sale,,,B
+100,CAMP00000100,Partner Network: Black Friday,Affiliate,Consideration,Alex Johnson,2024-11-23,2025-01-21,Active,High-Value,35648.82,Marketing campaign focused on black friday,15% OFF,PARTNER15,C
